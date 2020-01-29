@@ -4,6 +4,8 @@ A small modular JavaScript "library"that creates an image accordion.
 This is a work in progress, so it's pretty minimal right now.
 
 # Usage
+## Extracting
+Simply extra the contents of the .zip folder somewhere in your main project folder. The repo comes with an `index.html`, but you don't have to use it. If you happen to move the contents of the zipped folder, be wary of where `accordion.js` is. That's the main bread and butter.
 ## Importing
 ```js
 import {Accordion} from './accordion.js';
