@@ -22,6 +22,9 @@ const options = {
   buttons = false
 };
 
+## Image Requirements
+This was only tested with landscape-oriented images. It'll for sure work with portrait images, but you would need to adjust the width and height of your container. 
+
 const accrd = new Accordion(images, options. document.querySelector('.container');
 accrd.build();
 ```
