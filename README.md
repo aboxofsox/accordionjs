@@ -39,3 +39,6 @@ In the demo, I use a simple `div` with the class name of `container`.
 
 ## The CSS
 The CSS can be found in the JavaScript. You can edit it to your liking. In the future, I plan on making some changes to how everything is styled, especially better support for mobile devices.
+
+## Demo
+![demo](https://github.com/aboxofsox/accordionjs/blob/master/ezgif.com-video-to-gif.gif)
