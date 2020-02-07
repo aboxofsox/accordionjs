@@ -1,4 +1,4 @@
-import {Accordion} from './accordion.js';0
+import {Accordion} from './accordion.js';
 
     const images = [
         "https://images.pexels.com/photos/442150/pexels-photo-442150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
